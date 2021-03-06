@@ -1,4 +1,4 @@
-public class beelineTariffsProducts {
+public class BeelineTariffsProducts {
     boolean supportSIM;
     String nameTariff;
     String URL_black;            // изображение общей опции на черном фоне Связь Z
