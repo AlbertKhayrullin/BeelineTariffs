@@ -1,4 +1,4 @@
-public class BeelineTariffsProducts {
+public class BeelineTariffsProduct {
     boolean supportSIM;
     String nameTariff;
     int limitInternet;
